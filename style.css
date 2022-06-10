@@ -1,0 +1,19 @@
+.song-name_holder
+{
+    width: 400px;
+    height: 75px;
+    font-size: 10px;
+}
+
+.heading
+{
+    width: 1550px;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+canvas
+{
+    border-color: silver;
+    background-color: white;
+}
